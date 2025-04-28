@@ -1,5 +1,4 @@
-
-name:m.sahithi
+# Thanushree M
 # EX-11-EMI-CALCULATOR
 
 ## AIM
